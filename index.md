@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/mpace14/mpace14.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 - [x] #739
-- [ ] [NFL] (https://bleacherreport.com/nfl) :thinking:
+- [ ] A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/> 🤔
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
+🤔 :thinking:
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
