@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [ ] [NFL] (https://bleacherreport.com/nfl) :thinking:
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
 ### Markdown
 
